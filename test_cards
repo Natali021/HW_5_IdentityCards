@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<EmployeeCard_ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GeneralInformation>
+    <CompanyName>тов</CompanyName>
+    <CompanyCode>25003652</CompanyCode>
+    <FillDate>2021-10-29T20:51:35</FillDate>
+    <TabNumber>2556</TabNumber>
+    <IPN>1010101020</IPN>
+    <Gender>Чоловіча</Gender>
+    <WorkType>Основна</WorkType>
+  </GeneralInformation>
+  <PersonalInformation>
+    <Surname />
+    <Name />
+    <Patronymic />
+    <Nationality />
+    <BirthDate>2021-10-14T23:11:20.3920016+03:00</BirthDate>
+    <Education />
+  </PersonalInformation>
+  <EducationGeneral>
+    <FirstEducation_>
+      <FirstEducation>
+        <Educationalnstitution>назва</Educationalnstitution>
+        <Diplomalnstitution>диплом</Diplomalnstitution>
+        <YearEndlnstitution>рік</YearEndlnstitution>
+        <Profession>спец</Profession>
+        <Qualification>квал</Qualification>
+        <FormOfStudy>денна</FormOfStudy>
+      </FirstEducation>
+    </FirstEducation_>
+    <isAspiranture>false</isAspiranture>
+    <isAdjuncture>false</isAdjuncture>
+    <isDoctoranture>false</isDoctoranture>
+    <AfterEducation_>
+      <AfterEducation>
+        <Professionallnstitution>назва</Professionallnstitution>
+        <DiplomaProfessionallnstitution>диплом</DiplomaProfessionallnstitution>
+        <DateOfIssue>2012</DateOfIssue>
+        <YearEndProfessionallnstitution>2015</YearEndProfessionallnstitution>
+        <Degree>профи</Degree>
+      </AfterEducation>
+    </AfterEducation_>
+  </EducationGeneral>
+  <LastPlaceOfWork>
+    <LastWork>останнє</LastWork>
+    <ProfessionHere>проф</ProfessionHere>
+    <FireDate>2021-10-29T23:11:20</FireDate>
+    <FireReason>скорочення штатів</FireReason>
+    <PensionInfo>відомості</PensionInfo>
+    <WorkExp>2021-10-14T23:11:20.3900069+03:00</WorkExp>
+    <WDays>1</WDays>
+    <WMonth>1</WMonth>
+    <WYears>5</WYears>
+    <BDays>0</BDays>
+    <BMonth>0</BMonth>
+    <BYears>1</BYears>
+  </LastPlaceOfWork>
+  <FamilyStatusGeneral>
+    <FamilyStatus_>одружений</FamilyStatus_>
+    <FamilyCompositions_>
+      <FamilyComposition>
+        <FamilyBond>дружина</FamilyBond>
+        <FamilyPIB>піб</FamilyPIB>
+        <FamilyBirthDate>1976</FamilyBirthDate>
+      </FamilyComposition>
+    </FamilyCompositions_>
+  </FamilyStatusGeneral>
+  <PlaceOfResidence>
+    <FactPlaceOfResidence>факт</FactPlaceOfResidence>
+    <PlaceStateReg>рег</PlaceStateReg>
+    <PhoneNumber>(099) 000-0999</PhoneNumber>
+    <PassSeries>WW</PassSeries>
+    <PassNumber>123456</PassNumber>
+    <PassIssuedBy>тут</PassIssuedBy>
+    <PassDateIssue>2021-10-29T23:11:20</PassDateIssue>
+  </PlaceOfResidence>
+  <ProfessionalEducationGeneral>
+    <ProfessionalEducation_>
+      <ProfessionalEducation>
+        <date>2015</date>
+        <departmentName>структ</departmentName>
+        <studyPeriod>з</studyPeriod>
+        <typeOfEducation>по</typeOfEducation>
+        <formOfEducation>заочна</formOfEducation>
+        <infoAboutEducationDocument>док</infoAboutEducationDocument>
+      </ProfessionalEducation>
+    </ProfessionalEducation_>
+  </ProfessionalEducationGeneral>
+  <VacationGeneral>
+    <VacationRecords_>
+      <VacationRecord>
+        <typeOfVacation>основна</typeOfVacation>
+        <vacationPeriod>за</vacationPeriod>
+        <vacationStartDate>з</vacationStartDate>
+        <vacationFinishDate>по</vacationFinishDate>
+        <vacationIssue>26</vacationIssue>
+      </VacationRecord>
+    </VacationRecords_>
+  </VacationGeneral>
+</EmployeeCard_>
